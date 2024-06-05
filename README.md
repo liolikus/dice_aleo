@@ -1,4 +1,4 @@
-# dice_roll.aleo
+# dice_roll_alexb.aleo
 
 Dice rolling Aleo Program example
 
